@@ -39,9 +39,9 @@
 -  **예제 13. 데이터 정렬해서 출력하기 !** 📄[노트](https://www.notion.so/13-179c13551c97490881dddcbe084a0d78)
 
 -  **예제 14. 대소문자 변환 함수 사용하기 !** 📄[노트](https://www.notion.so/14-c2800fb7d7dd4b15aa3db17f2f6eddbe)
--  
+  
 -  **예제 15. SQL의 substr 함수를 R로 구현하기 !** 📄[노트](https://www.notion.so/15-SQL-substr-R-511f415a50fd423e9bb24246207f58cb)
--  
+  
 -  **예제 16. SQL의 replace 함수를 R로 구현하기 !** 📄[노트](https://www.notion.so/16-SQL-replace-R-d8bf45792ba141b399b6264cac6f64e5)
 
 -  **예제 17. 숫자 반올림 시 주의 사항 !** 📄[노트](https://www.notion.so/17-5a52d328c0b64ee3a70280a2f6104704)
